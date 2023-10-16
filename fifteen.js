@@ -17,8 +17,8 @@ a *= 5;
 b *= b;
 c *= 10;
 
-/* Waiting:a should equal 25.
-Waiting:b should equal 36.
-Waiting:c should equal 46.
-Waiting:You should use the *= operator for each variable.
-Waiting:You should not modify the code above the specified comment. */
+/* a should equal 25.
+b should equal 36.
+c should equal 46.
+You should use the *= operator for each variable.
+You should not modify the code above the specified comment. */

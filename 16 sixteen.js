@@ -16,7 +16,7 @@ b /=  4;
 c /=  11;
 
 /* Waiting:a should equal 4.
-Waiting:b should equal 27.
-Waiting:c should equal 3.
-Waiting:You should use the /= operator for each variable.
-Waiting:You should not modify the code above the specified comment. */
+b should equal 27.
+c should equal 3.
+You should use the /= operator for each variable.
+You should not modify the code above the specified comment. */

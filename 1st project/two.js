@@ -13,6 +13,6 @@ b = b + 5;
 c = c + " String!";
 
 // a should be defined and have a final value of 6.
-// Waiting:b should be defined and have a final value of 15.
-// Waiting:c should not contain undefined and should have a final value of the string I am a String!
-// Waiting:You should not change code below the specified comment.
+// b should be defined and have a final value of 15.
+// c should not contain undefined and should have a final value of the string I am a String!
+// You should not change code below the specified comment.

@@ -23,5 +23,5 @@ const remainder = 11 % 3;
 /* 
 
 The variable remainder should be initialized
-Passed:The value of remainder should be 2
-Passed:You should use the % operator */
+The value of remainder should be 2
+You should use the % operator */

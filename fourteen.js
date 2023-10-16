@@ -23,8 +23,8 @@ c -=  1;
 
 
 
-/* Waiting:a should equal 5.
-Waiting:b should equal -6.
-Waiting:c should equal 2.
-Waiting:You should use the -= operator for each variable.
-Waiting:You should not modify the code above the specified comment. */
+/*a should equal 5.
+b should equal -6.
+c should equal 2.
+You should use the -= operator for each variable.
+You should not modify the code above the specified comment. */
