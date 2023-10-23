@@ -1,4 +1,4 @@
-/* Quoting Strings with Single Quotes
+ Quoting Strings with Single Quotes
 String values in JavaScript may be written with single or double quotes, as long as you start and end with the same type of quote. Unlike some other programming languages, single and double quotes work the same in JavaScript.
 
 const doubleQuoteStr = "This is a string"; 

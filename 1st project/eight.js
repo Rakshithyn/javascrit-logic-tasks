@@ -1,7 +1,7 @@
-// Subtract One Number from Another with JavaScript
-// We can also subtract one number from another.
+ Subtract One Number from Another with JavaScript
+We can also subtract one number from another.
 
-// JavaScript uses the - symbol for subtraction.
+JavaScript uses the - symbol for subtraction.
 
 // Example
 
