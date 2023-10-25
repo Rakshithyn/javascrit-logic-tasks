@@ -1,4 +1,4 @@
- Multiply Two Numbers with JavaScript
+/*  Multiply Two Numbers with JavaScript
  We can also multiply one number by another.
 
  JavaScript uses the * symbol for multiplication of two numbers.
@@ -12,4 +12,4 @@
 //////////////////////////////////////////////////////////////////////////////////////
 // The variable product should be equal to 80.
 // You should use the * operator.
-const product = 8 * 10;
+const product = 8 * 10; */

@@ -1,4 +1,4 @@
- Compound Assignment With Augmented Subtraction
+/*  Compound Assignment With Augmented Subtraction
 Like the += operator, -= subtracts a number from a variable.
 
 myVar = myVar - 5;
@@ -27,4 +27,4 @@ a should equal 5.
 b should equal -6.
 c should equal 2.
 You should use the -= operator for each variable.
-You should not modify the code above the specified comment.
+You should not modify the code above the specified comment. */

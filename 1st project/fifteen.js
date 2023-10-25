@@ -1,4 +1,4 @@
- Compound Assignment With Augmented Multiplication
+/*  Compound Assignment With Augmented Multiplication
 The *= operator multiplies a variable by a number.
 
 myVar = myVar * 5;
@@ -21,4 +21,4 @@ c *= 10;
 b should equal 36.
 c should equal 46.
 You should use the *= operator for each variable.
-You should not modify the code above the specified comment.
+You should not modify the code above the specified comment. */
