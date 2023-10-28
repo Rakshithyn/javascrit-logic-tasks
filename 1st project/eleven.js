@@ -1,4 +1,4 @@
-/* var a=10;
+/var a=10;
 let a=20;
 const b =a ;
 console.log(b)

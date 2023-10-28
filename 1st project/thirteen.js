@@ -1,4 +1,4 @@
-/*  Compound Assignment With Augmented Addition
+ Compound Assignment With Augmented Addition
 In programming, it is common to use assignments to modify the contents of a variable. Remember that everything to the right of the equals sign is evaluated first, so we can say:
 
 myVar = myVar + 5;
@@ -11,12 +11,12 @@ myVar += 5;
 console.log(myVar);
 6 would be displayed in the console.
 
-Convert the assignments for a, b, and c to use the += operator. */ */
+Convert the assignments for a, b, and c to use the += operator. 
 let a = 3;
 let b = 17;
 let c = 12;
 
-// Only change code below this line
+Only change code below this line
 a += 12;
 b += 9;
 c += 7;
@@ -24,9 +24,8 @@ c += 7;
 
 
 
-
-/* Passed:a should equal 15.
-Passed:b should equal 26.
-Passed:c should equal 19.
-Passed:You should use the += operator for each variable.
-Passed:You should not modify the code above the specified comment. */
+ :a should equal 15.
+:b should equal 26.
+:c should equal 19.
+:You should use the += operator for each variable.
+:You should not modify the code above the specified comment. 
