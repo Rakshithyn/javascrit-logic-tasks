@@ -12,16 +12,16 @@ In mathematics, a number can be checked to be even or odd by checking the remain
 
 17 % 2 = 1
 48 % 2 = 0
-Note: The remainder operator is sometimes incorrectly referred to as the modulus operator. It is very similar to modulus, but does not work properly with negative numbers.
+/* Note: The remainder operator is sometimes incorrectly referred to as the modulus operator. It is very similar to modulus, but does not work properly with negative numbers.
 
-Set remainder equal to the remainder of 11 divided by 3 using the remainder (%) operator. 
+Set remainder equal to the remainder of 11 divided by 3 using the remainder (%) operator.  */
 
 
 const remainder = 11 % 3;
 
 
 
-
+/* 
 The variable remainder should be initialized
 The value of remainder should be 2
-You should use the % operator 
+You should use the % operator  */

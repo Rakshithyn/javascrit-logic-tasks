@@ -1,4 +1,4 @@
- Escaping Literal Quotes in Strings
+/*  Escaping Literal Quotes in Strings
 When you are defining a string you must start and end with a single or double quote. What happens when you need a literal quote: " or ' inside of your string?
 
 In JavaScript, you can escape a quote from considering it as an end of string quote by placing a backslash (\) in front of the quote.
@@ -11,7 +11,7 @@ Use backslashes to assign a string to the myStr variable so that if you were to 
 
 I am a "double quoted" string inside "double quotes".
  */
-const myStr = "I am a \"double quoted\" string inside \"double quotes\".";  */// Change this line
+const myStr = "I am a \"double quoted\" string inside \"double quotes\".";  */ */// Change this line
 /* 
 You should use two double quotes (") and four escaped double quotes (\").
 Variable myStr should contain the string: I am a "double quoted" string inside "double quotes". */
